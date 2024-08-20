@@ -12,4 +12,6 @@ client:
    defaultZone: http://localhost:8761/eureka
 
 
-creditcard.service.url=http://localhost:7006/customers/{id}
+creditcard:
+  service:
+    url: http://localhost:7006/customers/{id}
