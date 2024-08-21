@@ -1,1 +1,5 @@
-
+applicationconfiguration:
+host: http://localhost
+port: 7006
+username: customer-qa
+password: customer-qa
