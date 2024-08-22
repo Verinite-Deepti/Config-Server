@@ -1,5 +1,5 @@
 applicationconfiguration:
-host: http://localhost
-port: 7006
-username: customer-dev
-password: customer-dev
+   host: http://localhost
+   port: 7006
+   username: customer-dev
+   password: customer-dev
