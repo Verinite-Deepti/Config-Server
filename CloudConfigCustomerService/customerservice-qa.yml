@@ -1,0 +1,5 @@
+applicationconfiguration:
+   host: http://localhost
+   port: 3000
+   username: customer-qa
+   password: customer-qa
