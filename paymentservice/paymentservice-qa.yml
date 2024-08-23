@@ -1,4 +1,4 @@
-applicationconfiguration:
+applicationconfigutation:
   host: http://localhost
   port: 3000
   username: payment-qa
