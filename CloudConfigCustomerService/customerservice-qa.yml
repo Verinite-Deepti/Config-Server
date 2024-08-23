@@ -3,3 +3,5 @@ applicationconfiguration:
    port: 3000
    username: customer-qa
    password: customer-qa
+
+   
